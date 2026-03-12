@@ -6,7 +6,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
 
-A mobile application built with Expo and React Native that provides a convenient platform for users to order meals from various restaurants.
+A React Native practice application for learning API integration and networking concepts. Built with Expo to demonstrate HTTP requests, API consumption, and data management.
 
 ## Project Overview
 
