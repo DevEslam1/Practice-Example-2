@@ -13,3 +13,4 @@ const getUser = async (userId) => {
 };
 
 export { getUser };
+
