@@ -1,12 +1,10 @@
 # Practice Mobile App
 
-![React Native](https://img.shields.io/badge/React%20Native-0.81.5-blue?logo=react)
-![Expo](https://img.shields.io/badge/Expo-54.0-black?logo=expo)
-![Axios](https://img.shields.io/badge/Axios-HTTP%20Client-5A29E4?logo=axios)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.9-3178C6?logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript)
+<p align="center">
+  <img src="./ss/Screenshot_1776028507.png" width="300" />
+</p>
 
-A React Native practice application for learning API integration and networking concepts. Built with Expo to demonstrate HTTP requests, API consumption, and data management.
+A simple React Native application built with Expo to practice networking using Axios and the GitHub API. This project demonstrates how to fetch user data and display it in a clean, mobile-native interface.
 
 ## Project Overview
 
